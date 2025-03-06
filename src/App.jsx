@@ -1,6 +1,6 @@
 import React from "react";
 import GameBoard from "./assets/components/Gameboard.jsx";
-import "./index.css";
+// import "./index.css";
 
 const App = () => (
     <div className="app">
